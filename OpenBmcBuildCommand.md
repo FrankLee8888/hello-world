@@ -1,4 +1,6 @@
+
 openBmc Build command:
+
 mkdir asus_openbmc
 cd asus_openbmc
 git clone ssh://git@cicd-server-02:8822/dev/bmc/oprojects/asus_obmc.git
