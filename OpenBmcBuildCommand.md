@@ -1,5 +1,5 @@
 
-openBmc Build command:
+# openBmc Build command:
 
 mkdir asus_openbmc
 cd asus_openbmc
